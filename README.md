@@ -1,6 +1,6 @@
 #Beamer Export
 ### Introduction
-Cet outil sert à exporter en PDF les diapos codé via le moteur "*beamer.js*" ([disponible sur GitHub](https://github.com/CedricDinont/Beamer.js))
+Cet outil sert à exporter en PDF les diapos du moteur "*beamer.js*" ([disponible sur GitHub](https://github.com/CedricDinont/Beamer.js))
 
 ### Instructions
 
