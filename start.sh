@@ -1,4 +1,4 @@
-rm *.png *.pdf
+rm slide-*.png *.pdf
 ./phantomjs script.js
-convert *.png slide.pdf
-rm *.png
+convert slide-*.png slide.pdf
+rm slide-*.png
